@@ -1,0 +1,11 @@
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe.config
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.pdb
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.AssemblyReference.cache
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.LoginForm.resources
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.Properties.Resources.resources
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.SignUpForm.resources
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.GenerateResource.cache
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.exe
+C:\Users\user\Documents\c++ projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.pdb
